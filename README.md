@@ -1,2 +1,2 @@
 # Sealed_Classes
-how to access sealed classes.
+how to access interface data by using sealed classes.
